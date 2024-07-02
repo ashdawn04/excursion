@@ -3,3 +3,7 @@ html {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     align-content: center;
 }
+
+h1,h2 {
+    color: white;
+}
