@@ -1,6 +1,7 @@
 html {
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
     justify-content: center;
     align-content: space-around;
 }
