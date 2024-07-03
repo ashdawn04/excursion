@@ -1,7 +1,8 @@
 html {
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    align-items: center;
+    justify-content: center;
+    align-content: space-around;
 }
 
 h1,h2 {
